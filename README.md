@@ -6,17 +6,14 @@ Welcome to my command center. I specialize in building robust, production-ready 
 
 ## 🛠️ Technical Ecosystem & Toolkit
 
-### 💻 Backend & Core Engineering
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+## 🛠️ Technical Ecosystem & Toolkit
 
-### 🐋 Containerization & Infrastructure
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-
-### 🎨 Creative Media & Identity
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-
-### 🤖 AI Engineering & Optimization
-<img src="https://shields.io" /> <img src="https://shields.io" />
+| Layer | Technologies & Tools |
+| :--- | :--- |
+| **💻 Backend & Core** | `Python` • `Node.js (Express)` • `PHP` • `WordPress` |
+| **🐋 Infrastructure** | `Docker` • `Docker Compose` • `VS Code` • `Git / GitHub` |
+| **🎨 Creative Media** | `DaVinci Resolve` • `Adobe Photoshop` • `Figma` |
+| **🤖 AI Engineering** | `ChatGPT (OpenAI API)` • `Claude AI (Anthropic)` |
 
 ---
 
