@@ -6,8 +6,6 @@ Welcome to my command center. I specialize in building robust, production-ready 
 
 ## 🛠️ Technical Ecosystem & Toolkit
 
-## 🛠️ Technical Ecosystem & Toolkit
-
 | Layer | Technologies & Tools |
 | :--- | :--- |
 | **💻 Backend & Core** | `Python` • `Node.js (Express)` • `PHP` • `WordPress` |
